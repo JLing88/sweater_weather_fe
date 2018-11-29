@@ -19,20 +19,20 @@ body {
 
 .container {
   padding: 1%;
+  margin: auto;
 }
 
 .section1 {
-  display: inline-block;
   float: left;
   width: 49%;
   height: 200px;
   outline: solid;
   outline-color: #626E89;
   padding: 1px;
+  margin: auto;
 }
 
 .section2 {
-  display: inline-block;
   float: right;
   width: 49%;
   height: 200px;
@@ -48,4 +48,5 @@ body {
   outline: solid;
   outline-color: #626E89;
   padding: 1px;
+  display: block;
 }
