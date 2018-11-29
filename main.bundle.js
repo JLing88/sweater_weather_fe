@@ -42,10 +42,10 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, exports) {
+/***/ function(module, exports) {
 
 	// This file is in the entry point in your webpack config.
 	"use strict";
 
-/***/ })
+/***/ }
 /******/ ]);
