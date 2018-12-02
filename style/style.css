@@ -62,3 +62,13 @@ body {
 #current-condition {
   align-items: center;
 }
+
+#hourly-forecast {
+  grid-template-columns: repeat(8, 1fr);
+}
+
+#five-day-forecast {
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+}
+
