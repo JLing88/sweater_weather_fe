@@ -2,6 +2,16 @@ body {
   background-image: url("https://cdn.hipwallpaper.com/i/97/65/9A5vMm.jpg");
 }
 
+.title {
+  float: left;
+  padding-left: 25px;
+}
+
+.search-form {
+  float: center;
+  padding-top: 40px;
+}
+
 .topnav {
   background-color: #B2D0E5;
   overflow: hidden;
@@ -10,7 +20,7 @@ body {
   text-align: center;
   padding: 3px 3px;
   text-decoration: none;
-  font-size: 40px;
+  font-size: 25px;
   font-family: 'Bree Serif', serif;
 }
 
